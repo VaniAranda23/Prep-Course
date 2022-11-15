@@ -1,0 +1,29 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables:
+// son de las cosas mas basicas que tiene Javascript, porque guarda lo que le digas para que lo pueda usar mas tarde.
+// Su palabra clave va a ser "var", "let" o "const", un espacio, y el nombre que le quieras poner a esta variable. 
+//Tambien podes usar el =. 
+un ejemplo: var nombre = 'Vani';
+
+Strings:
+// Son palabras a las que llamamos bloques de texto que siempre van entre "", podes usar las comillas simples o las dobles. 
+un ejemplo: var nombreMio = 'Vani';
+
+Funciones (argumentos, return):
+Son acciones que permiten que las variables sean ejecutadas. como ser calculos, combinaciones, o lo que sea que se necesite hacer con ellas. 
+Los argmentos son los acompanantes y quienes le dan sentido a las funciones y las funciones le dan vida a las variables. 
+Los argumentos ponen en marcha a las funciones, las direccionan o identifican. 
+y por otro lado el "return" detiene la funcion y la devuelve. 
+
+Declaraciones if
+Para verificar y ver si una expresion realmente es asi o no. Si es verdad va a poner algun codigo pero si no es como esta declarada va a saltearse el codigo y va a seguir trabajando en el programa normalmente. 
+ej: if (4 + 4 === 8) {
+    console.log ('la expresion es verdadera');
+}
+4 +4 es exactamente 8, por lo tanto la expresion es verdadera. 
+
+Valores booleanos (true, false)
+// Son afirmaciones que dan como resultado entre dos opciones, por ejemplo verdadero o falso, 0 o 1, prendido o apagado, si o no. 
+ejemplo: var JavascripesDificil = true
+}
